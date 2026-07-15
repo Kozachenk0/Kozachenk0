@@ -24,7 +24,7 @@ I am a Cybersecurity student currently undertaking independent study to speciali
 * 📂 **C# Learning:** A history of my C# learning journey.
 * 🎯 **Next Milestones:** Getting my Hashicorp Terraform certification, getting hands on with Docker, and Orchestration with Kubernates.
 
-I hope to create a portfolio website soon using the skills I will use, so in the future this README will contain a link to it!
+I hope to create a portfolio website soon using the skills I will learn, so in the future this README will contain a link to it!
 
 ---
 
