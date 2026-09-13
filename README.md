@@ -15,7 +15,7 @@ I am a Cybersecurity student currently undertaking independent study to speciali
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C#, Python, Terraform |
-| **Frameworks & Libs** | .NET, Azure SDK |
+| **Frameworks & Libs** | .NET, AWS SDK |
 | **Tools & Platforms** | Visual Studio Code, Github |
 
 ---
