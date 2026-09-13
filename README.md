@@ -1,11 +1,11 @@
 # Hi there, I'm Kozachenk0! 👋
 
-I am a Cybersecurity student currently undertaking independent study to specialise in Cloud DevOps. I am self taught and work with real systems like Azure in order to learn.
+I am a Cybersecurity student currently undertaking independent study to specialise in Cloud DevOps. I am self taught and work with real systems like Azure and AWS in order to learn.
 
 ### 🚀 About Me
 * 🎓 Currently pursuing a **Certificate IV in Cybersecurity**.
-* 💻 Actively practicing and building with **C# and the .NET Framework**.
-* ☁️ Upskilling in **Azure DevOps**.
+* 💻 Actively practicing and building with **C#, Python, Bash and hoping to get into Go**.
+* ☁️ Upskilling in **Azure/AWS DevOps**.
 * 🔧 Interested in **DevOps** and **DevSecOps**.
 
 ---
